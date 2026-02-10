@@ -1,4 +1,4 @@
-#H1
+# Heading
 **bold text**
 *italicized text*
 > blockquote
@@ -11,4 +11,4 @@
 `code`
 ---
 [title](https://www.example.com)
-![alt text](image.jpg)
+![alt text](https://a.storyblok.com/f/197805/7a2484c876/how-to-create-a-car-newblogcover.png)
